@@ -1,5 +1,9 @@
 # Sentiment Analysis of Real time Flipkart Product Reviews
 
+<p align="center">
+    <img width="800" src="https://github.com/Vidushi119/Sentiment-Analysis-of-Flipkart-Product-Reviews/blob/main/Files/Flipkart.jpg" alt="Flipkart">
+</p>
+
 [Flipkart Private Limited](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.flipkart.com/&ved=2ahUKEwjU_pnGqIiFAxWnRUEAHekzBeEQ-TAoAHoECFcQAQ&usg=AOvVaw0v_i-rdbD-oVZOBoKBuRP8) is an Indian e-commerce company headquartered in Bangalore. The company initially focused on online book sales before expanding into other product categories, including consumer electronics, fashion, home essentials, groceries, and lifestyle products. Flipkart has grown rapidly over the years, making strategic mergers and acquisitions and maximizing data to understand and create a personalized user experience.
 
 A team of Data Engineers has scraped real-time data from the Flipkart website. The dataset consists of 8,518 reviews for the "YONEX MAVIS 350 Nylon Shuttle" product from Flipkart. Each review includes features such as Reviewer Name, Rating, Review Title, Review Text, Place of Review, Date of Review, Up Votes, and Down Votes.
